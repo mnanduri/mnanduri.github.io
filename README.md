@@ -1,2 +1,2 @@
 # mnanduri.github.io
-Statix
+Static Page
